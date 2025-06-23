@@ -1,0 +1,7 @@
+{
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "semi": true,
+  "importOrderSeparation": true,
+  "overrides": [{ "files": ["*.json"], "options": { "trailingComma": "none" } }]
+}
